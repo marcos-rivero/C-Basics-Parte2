@@ -1,0 +1,9 @@
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.AssemblyReference.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\ACM\ACM.BL\bin\Debug\ACM.Common.dll
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\ACM\ACM.BL\bin\Debug\ACM.Common.pdb
+C:\Users\Marcos\Desktop\Desarrollo Back End\ACME\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
